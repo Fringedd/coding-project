@@ -21,7 +21,7 @@ body {
   width: 50%;
   height: 80%;
   position: absolute;
-  background-image: url(./images/pattern-bg.svg);
+  background-image: url(pattern-bg.svg);
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute;
@@ -73,7 +73,7 @@ button {
 }
 
 .curve {
-  background-image: url(./images/pattern-curve.svg);
+  background-image: url(pattern-curve.svg);
   background-size: cover;
   background-repeat: no-repeat;
   position: absolute;
@@ -152,7 +152,7 @@ button {
     width: 360px;
     height: 100%;
     position: absolute;
-    background-image: url(./images/pattern-bg.svg);
+    background-image: url(pattern-bg.svg);
     background-size: contain;
     background-repeat: no-repeat;
     position: absolute;
